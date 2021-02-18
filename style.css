@@ -1,0 +1,20 @@
+.travel_maindiv{
+    border: 1px solid gray;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    
+}
+.travel_maindiv ing{
+    width: 100%;
+    
+}
+.travel_maindiv hr{
+    width: 230px;
+    
+}
+.travel_maindiv h5,.travel_maindiv p{
+    margin-left: 20px;
+    
+    
+}
